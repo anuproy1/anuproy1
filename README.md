@@ -1,4 +1,4 @@
-# Anup Roy — VLSI portfolio
+# Anup kumar Roy — VLSI portfolio
 
 A responsive, self-contained portfolio for GitHub Pages. No installation or build required.
 
